@@ -1,7 +1,7 @@
 <!-- QuackHack-McBlindy Sponsorship and Support Section -->
-<div align="center" style="background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); padding: 20px; border-radius: 10px; font-family: 'Comic Sans MS', cursive, sans-serif;">
-  <h1 style="color: white; text-shadow: 2px 2px 4px #000000;">Support QuackHack-McBlindy! 🦆</h1>
-  <p style="color: white;">For just $1, you can help a poor coder duck!</p>
+<div align="center">
+  <h1>Support QuackHack-McBlindy! 🦆</h1>
+  <p>For just $1, you can help a poor coder duck!</p>
   <div style="margin: 10px;">
     <a href="https://github.com/sponsors/QuackHack-McBlindy">
       <img src="https://img.shields.io/github/sponsors/QuackHack-McBlindy?logo=githubsponsors&label=Sponsor?🥺&style=flat&labelColor=ff1493&logoColor=fff&color=rgba(234,74,170,0.5)" alt="Github Sponsor" title="Sponsor on GitHub">

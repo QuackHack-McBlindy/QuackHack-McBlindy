@@ -4,12 +4,11 @@
 
 # <a href="https://github.com/sponsors/QuackHack-McBlindy"><img src='https://img.shields.io/github/sponsors/QuackHack-McBlindy?logo=GithubSponsors&label=%E2%80%8E&style=flat-square&labelColor=rgba(234,74,170,0)&logocolor=EA4AAA&color=rgba(234,74,170,0.5)' alt='Sponsors' height='32'></a> <a href="https://yourwebsite.com"> <img src='https://yourwebsite.com/favicon.svgz?c=2962FF&b=2962FF&g=0.5' alt='QuackHack-McBlindy' height="32"><img src='https://yourwebsite.com/typesvg?duration=3000&vCenter=true&height=32&size=32&color=808080&font=Segoe&lines=QuackHack+McBlindy+🦆;' ></a>
 
-[![Figma](https://img.shields.io/badge/%E2%80%8E-💯-rgba%280%2C0%2C0%2C0%29.svg?logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzggNTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTE5IDI4LjVhOS41IDkuNSAwIDEgMSAxOSAwIDkuNSA5LjUgMCAwIDEtMTkgMHoiIGZpbGw9IiMxYWJjZmUiLz48cGF0aCBkPSJNMCA0Ny41QTkuNSA5LjUgMCAwIDEgOS41IDM4SDE5djkuNWE5LjUgOS41IDAgMSAxLTE5IDB6IiBmaWxsPSIjMGFjZjgzIi8+PHBhdGggZD0iTTE5IDB2MTloOS41YTkuNSA5LjUgMCAxIDAgMC0xOUgxOXoiIGZpbGw9IiNmZjcyNjIiLz48cGF0aCBkPSJNMCA5LjVBOS41IDkuNSAwIDAgMCA5LjUgMTlIMTlWMEg5LjVBOS41IDkuNSAwIDAgMCAwIDkuNXoiIGZpbGw9IiNmMjRlMWUiLz48cGF0aCBkPSJNMCAyOC41QTkuNSA5LjUgMCAwIDAgOS41IDM4SDE5VjE5SDkuNUE5LjUgOS41IDAgMCAwIDAgMjguNXoiIGZpbGw9IiNhMjU5ZmYiLz48L3N2Zz4=&logoColor=F24E1E&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
-[![Illy](https://img.shields.io/badge/%E2%80%8E-🔥-rgba%280%2C0%2C0%2C0%29.svg?logo=adobeillustrator&logoColor=FF9A00&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
-[![Photoshop](https://img.shields.io/badge/%E2%80%8E-🤔-rgba%280%2C0%2C0%2C0%29.svg?logo=adobephotoshop&logoColor=31A8FF&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
-[![Sublime](https://img.shields.io/badge/%E2%80%8E-⌨️-rgba%280%2C0%2C0%2C0%29.svg?logo=SublimeText&logoColor=FF9800&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
-[![CSS3](https://img.shields.io/badge/%E2%80%8E-😍-rgba%280%2C0%2C0%2C0%29.svg?logo=css3&logoColor=F24E1E&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
-[![HTML5](https://img.shields.io/badge/%E2%80%8E-✨-rgba%280%2C0%2C0%2C0%29.svg?logo=html5&logoColor=E34F26&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
-[![JavaScript](https://img.shields.io/badge/%E2%80%8E-👨‍💻-rgba%280%2C0%2C0%2C0%29.svg?logo=javascript&logoColor=F7DF1E&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
+Recent projects;
 
+## duck-TV
+
+## duck-flake
+
+## qwackify
 

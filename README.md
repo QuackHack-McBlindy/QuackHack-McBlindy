@@ -2,13 +2,16 @@
 
 <img src="https://github.com/QuackHack-McBlindy/share/blob/main/qh-removebg-preview.png?raw=true" width="50%">
 
-#### **⭐ recent:**
+#### **🚀**
 
-- **❄️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- All my hosts OS configurations + All digital life. Nix defined flake.**  
-- **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- Rapid Fast Voice Assistant/DSL written in Nix and Rust**
-- **⚙️** [no_std_components](https://github.com/QuackHack-McBlindy/no_std_components) **- ESP32 ready, bare metal components**
+- **❄️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- All my hosts OS configurations + home automations + digital life. Nix defined flake.**  
+- **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- Rapid Fast Voice Assistant/DSL written in Rust and used as NixOS module**
+- **⚙️** [no_std_components](https://github.com/QuackHack-McBlindy/no_std_components) **- Bare Metal no_std developer components**
 - **📤** [ESP32-S3-BOX-3-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-BOX-3-rs) **- no_std bare metal Voice Assistant written in Rust**
 
-**🦆🧑‍🦯 handiqwack, thnx for supporting hungry developers 🦆!**
+## 💡
+
+> 🦆🧑‍🦯 handiqwack,
+>  thnx for supporting open source 🦆!
 
 [![Sponsors](https://img.shields.io/github/sponsors/QuackHack-McBlindy?logo=githubsponsors&label=Sponsor&style=flat&labelColor=ff1493&logoColor=fff&color=rgba(234,74,170,0.5) "")](https://github.com/sponsors/QuackHack-McBlindy) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Sponsor?style=flat&logo=buymeacoffee&logoColor=fff&labelColor=ff1493&color=ff1493)](https://buymeacoffee.com/quackhackmcblindy)

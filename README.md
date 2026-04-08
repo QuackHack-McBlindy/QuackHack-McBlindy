@@ -9,11 +9,11 @@
 
 ## **🚀**
 
-- **❄️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- All my hosts OS configurations + home automations + digital life. Nix defined flake.**  
+- **❄️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- All my hosts OS configurations + home automations + everything else. Nix. Defines. ALL!**  
 - **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- Rapid Fast Voice-Assistant/NLP-engine, best used as NixOS module, alternatively 100% Rust**  
 **Hardware Abstraction Layers** 
-- **⚙️** [no_std_components](https://github.com/QuackHack-McBlindy/no_std_components) **- Collection of Bare Metal no_std component crates**
-- **📤** [ESP32-S3-BOX-3-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-BOX-3-rs) **- Bare Metal no_std Voice Assistant firmmware for the `ESP32-S3-BOX-3` written in Rust**
+- **📤** [ESP32-S3-BOX-3-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-BOX-3-rs) **- Bare Metal no_std Voice Assistant firmmware for the `ESP32-S3-BOX-3` written in Rust**  
+- **📦** [no_std_components](https://github.com/QuackHack-McBlindy/no_std_components) **- Bare Meetal Crates Collection**  
 
 
 ## **☕**
@@ -23,5 +23,6 @@
 > Like my work?  
 > Buy me a coffee, or become a sponsor.  
 > thnx for supporting open source/hungry developers ♥️🦆!    
-
+  
+*Donate crypto? Wallet:* `pungkula.x`  
 [![Sponsors](https://img.shields.io/github/sponsors/QuackHack-McBlindy?logo=githubsponsors&label=Sponsor&style=flat&labelColor=ff1493&logoColor=fff&color=rgba(234,74,170,0.5) "")](https://github.com/sponsors/QuackHack-McBlindy) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Sponsor?style=flat&logo=buymeacoffee&logoColor=fff&labelColor=ff1493&color=ff1493)](https://buymeacoffee.com/quackhackmcblindy)

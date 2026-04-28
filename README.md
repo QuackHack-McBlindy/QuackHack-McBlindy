@@ -10,11 +10,12 @@
 ## **🚀**
 
 - **❄️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- All my hosts OS configurations + home automations + everything else. Nix. Defines. All.**  
-- **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- Rapid Fast Voice-Assistant/NLP-engine, best used as NixOS module, alternatively 100% Rust**  
+- **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- Rapid Fast Voice-Assistant/NLP-engine, best used as NixOS module. No NixOS? Run inside container.**   
+- **🦆** [Zigduck2mqttnix](https://github.com/QuackHack-McBlindy/Zigduck2mqttnix) **- Declarative Home Automation System in high-speed Rust. Define everything declaratively in Nix.**  
 **Hardware Abstraction Layers** 
 - **📤** [ESP32-S3-BOX-3-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-BOX-3-rs) **- Bare Metal no_std Voice Assistant firmmware for the `ESP32-S3-BOX-3` written in Rust**  
 - **⌚️** [ESP32-S3-WATCH-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-WATCH-rs) **- Bare Metal no_std Voice Assistant firmmware for my `ESP32-S3` watch, written in Rust**  
-- **📦** [no_std_components](https://github.com/QuackHack-McBlindy/no_std_components) **- Bare Meetal Crates Collection**  
+- **📦** [crates.io](https://crates.io/users/QuackHack-McBlindy) **- Bare Meetal Crates Collection**  
 
 
 ## **☕**

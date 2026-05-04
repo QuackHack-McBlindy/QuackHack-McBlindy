@@ -6,11 +6,12 @@
 *old-school anonymous duck*    
 *mostly white hat*    
 
-## **🎓Technical Papers**  
+
+### **🎓Technical Papers**  
 
 - **🤯** [Nix Explosion](https://quackhack-mcblindy.github.io/blog/) **- We don't need LLM's to process language.**  
 
-
+  
 
 ## **🚀**
 

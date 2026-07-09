@@ -9,7 +9,7 @@
 
 ## **🚀**
 
-- **🤯** [duck code as art](https://github.com/QuackHack-McBlindy/dotfiles/blob/main/bin/disabled/voice/do-bash.nix) ** actually art? **
+- **🤯** [code as art](https://github.com/QuackHack-McBlindy/dotfiles/blob/main/bin/disabled/voice/do-bash.nix)  
 - **❄️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- All my hosts configurations + home automations + everything else.**  
 - **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- Rapid Fast Voice-Assistant/NLP-engine, best used as NixOS module. No NixOS? Run containerized.**   
 - **🦆** [Zigduck2mqttnix](https://github.com/QuackHack-McBlindy/Zigduck2mqttnix) **- Reproduceble home automation system with Nix/Rust. Define home once and forget forever.**  

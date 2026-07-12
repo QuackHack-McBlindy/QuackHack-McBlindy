@@ -15,7 +15,7 @@
 - **🦆** [Zigduck2mqttnix](https://github.com/QuackHack-McBlindy/Zigduck2mqttnix) **- Reproduceble home automation system with Nix/Rust. Define home once and forget forever.**  
 **Hardware Abstraction Layers** 
 - **⌚️** [ESP32-S3-WATCH-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-WATCH-rs) **- Voice-driven bare metal wearable operating system for my watch.**  
-- **📭** [ESP32-S3-BOX-3-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-BOX-3-rs) **- mostly docked voice assistant MseshBox .**  
+- **📭** [ESP32-S3-BOX-3-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-BOX-3-rs) **-** *(mostly)* **docked voice assistant Meshbox .**  
 - **📦** [crates.io](https://crates.io/users/QuackHack-McBlindy) **- QuackHack-McBlindy @ crates.io**  
 
 

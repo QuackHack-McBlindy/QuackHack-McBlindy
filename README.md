@@ -12,7 +12,7 @@
 - **🤯** [prototype](https://github.com/QuackHack-McBlindy/dotfiles/blob/main/bin/disabled/voice/do-bash.nix) **- code as art**  
 - **❄️** [tinyFlake](https://github.com/QuackHack-McBlindy/tinyFlake) **-I start with a tinyFlake.**   
 - **🛠️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- All my hosts configurations + home automations + everything else.**  
-- **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- Rapid Fast Voice-Assistant/NLP-engine, best used as NixOS module. No NixOS? Run containerized.**   
+- **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- rapid fast flake voice assistant/NLP-engine.**   
 - **🦆** [Zigduck2mqttnix](https://github.com/QuackHack-McBlindy/Zigduck2mqttnix) **-  reproducible and deployable smart home system..**  
 **Hardware Abstraction Layers** 
 - **⌚️** [ESP32-S3-WATCH-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-WATCH-rs) **- Voice-driven bare metal wearable operating system for my watch.**  

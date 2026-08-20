@@ -1,28 +1,31 @@
-<img src="https://github.com/QuackHack-McBlindy/share/blob/main/qh-removebg-preview.png?raw=true" width="50%">
-
-# <a href="https://github.com/sponsors/QuackHack-McBlindy"><img src='https://img.shields.io/github/sponsors/QuackHack-McBlindy?logo=GithubSponsors&label=%E2%80%8E&style=flat-square&labelColor=rgba(234,74,170,0)&logocolor=EA4AAA&color=rgba(234,74,170,0.5)' alt='Sponsors' height='32'></a><a href="https://quackhack-mcblindy.github.io/blog/"> <img src='https://yourwebsite.com/favicon.svgz?c=2962FF&b=2962FF&g=0.5' alt='𝑸𝒖𝒂𝒄𝒌𝑯𝒂𝒄𝒌-𝑴𝒄𝑩𝒍𝒊𝒏𝒅𝒚' height="32"></a> <img src='https://img.shields.io/github/sponsors/QuackHack-McBlindy?logo=GithubSponsors&label=%E2%80%8E&style=flat-square&labelColor=rgba(234,74,170,0)&logocolor=EA4AAA&color=rgba(234,74,170,0.5)' alt='Sponsors' height='32'> <br>
+<img src="https://github.com/QuackHack-McBlindy/QuackHack-McBlindy/blob/main/logo.png?raw=true" width="50%">
 
 
-*old-school & anonymous*    
-*mostly white hat*    
+# **🦆🧑‍🦯 QuackHack-McBlindy**
+
+*old-school & anonymous*   
+*lost my sight twenty years ago*   
+*have been doing this for a really long time..*   
+*mostly white hat these days*    
 
 
-## **🚀**
+## **Some fun stuff I wrote and maintain**
 
-- **🤯** [prototype](https://github.com/QuackHack-McBlindy/dotfiles/blob/main/bin/disabled/voice/do-bash.nix) **- code as art**  
-- **❄️** [tinyFlake](https://github.com/QuackHack-McBlindy/tinyFlake) **-I start with a tinyFlake.**   
-- **🛠️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- All my hosts configurations + home automations + everything else.**  
+- **🤯** [prototype](https://github.com/QuackHack-McBlindy/dotfiles/blob/main/bin/disabled/voice/do-bash.nix) **- code as art.**  
+- **❄️** [tinyFlake](https://github.com/QuackHack-McBlindy/tinyFlake) **- my projects start with a tinyFlake.**   
+- **🛠️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- all my machines + home automations + everything else.**  
 - **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- rapid fast flake voice assistant/NLP-engine.**   
 - **🦆** [Zigduck2mqttnix](https://github.com/QuackHack-McBlindy/Zigduck2mqttnix) **-  reproducible and deployable smart home automation system.**  
 **Hardware Abstraction Layers** 
-- **⌚️** [ESP32-S3-WATCH-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-WATCH-rs) **- Voice-driven bare metal wearable operating system for my watch.**  
-- **📭** [ESP32-S3-BOX-3-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-BOX-3-rs) **-** *(mostly)* **docked voice assistant Meshbox .**  
+- **⌚️** [ESP32-S3-WATCH-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-WATCH-rs) **- Voice-driven bare metal wearable operating system for my wrist.**  
+- **📭** [ESP32-S3-BOX-3-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-BOX-3-rs) **-** *(mostly)* **docked voice assistant.**  
+**Libraries** 
 - **📦** [crates.io](https://crates.io/users/QuackHack-McBlindy) **- QuackHack-McBlindy @ crates.io**  
 
 
 ## **☕**
 
-> 🦆🧑‍🦯 says ⮞ Hi! I'm QuackHack-McBlindy!  
+> 🦆🧑‍🦯 says ▶ Hi! I'm QuackHack-McBlindy!  
 > Like my work?  
 > Buy me a coffee, or become a sponsor.  
 > Thanks for supporting open source/hungry developers ♥️🦆!   

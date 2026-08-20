@@ -1,4 +1,4 @@
-<img src="https://github.com/QuackHack-McBlindy/QuackHack-McBlindy/blob/main/logo.png?raw=true" width="50%">
+<img src="https://github.com/QuackHack-McBlindy/QuackHack-McBlindy/blob/main/logo.png?raw=true" width="80%">
 
 
 # **🦆🧑‍🦯 QuackHack-McBlindy**

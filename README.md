@@ -1,25 +1,26 @@
 <img src="https://github.com/QuackHack-McBlindy/QuackHack-McBlindy/blob/main/logo.png?raw=true" width="80%">
 
 
-# **🦆🧑‍🦯 QuackHack-McBlindy**
+# **🦆 QuackHack-McBlindy 🧑‍🦯**
 
 *old-school & anonymous*   
 *lost my sight twenty years ago*   
-*have been doing this for a really long time..*   
+*been doing this for far longer...*   
 *mostly white hat these days*    
 
 
-## **Some fun stuff I wrote and maintain**
+## **Ecosystem**
 
 - **🤯** [prototype](https://github.com/QuackHack-McBlindy/dotfiles/blob/main/bin/disabled/voice/do-bash.nix) **- code as art.**  
 - **❄️** [tinyFlake](https://github.com/QuackHack-McBlindy/tinyFlake) **- my projects start with a tinyFlake.**   
-- **🛠️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- all my machines + home automations + everything else.**  
-- **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- rapid fast flake voice assistant/NLP-engine.**   
-- **🦆** [Zigduck2mqttnix](https://github.com/QuackHack-McBlindy/Zigduck2mqttnix) **-  reproducible and deployable smart home automation system.**  
-**Hardware Abstraction Layers** 
-- **⌚️** [ESP32-S3-WATCH-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-WATCH-rs) **- Voice-driven bare metal wearable operating system for my wrist.**  
+- **🛠️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- all**+**servers**+**phone**+**scripts**+**lights**+**TVs**+**bed**+**automations**+**everything else.**  
+- **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- fast, flake-native deterministic natural-language command engine with an offline voice interface.**   
+- **🦆** [Zigduck2mqttnix](https://github.com/QuackHack-McBlindy/Zigduck2mqttnix) **-  reproducible and deployable smart home automation system as a flake.**  
+**Embedded / Hardware** 
+- **⌚️** [ESP32-S3-WATCH-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-WATCH-rs) **- Voice-driven bare metal wearable operating system on your wrist.**  
 - **📭** [ESP32-S3-BOX-3-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-BOX-3-rs) **-** *(mostly)* **docked voice assistant.**  
 **Libraries** 
+- **🗣️** [yo-esp](https://github.com/QuackHack-McBlindy/yo-esp) **- rust no std audio library for ESP32 microcontrollers.**   
 - **📦** [crates.io](https://crates.io/users/QuackHack-McBlindy) **- QuackHack-McBlindy @ crates.io**  
 
 

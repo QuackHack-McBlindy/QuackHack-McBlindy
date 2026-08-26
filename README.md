@@ -15,7 +15,7 @@
 - **❄️** [tinyFlake](https://github.com/QuackHack-McBlindy/tinyFlake) **- my projects start with a tinyFlake.**   
 - **🛠️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- all**+**servers**+**phone**+**scripts**+**lights**+**TVs**+**bed**+**automations**+**everything else.**  
 - **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- fast, flake-native deterministic natural-language command engine with an offline voice interface.**   
-- **🦆** [Zigduck2mqttnix](https://github.com/QuackHack-McBlindy/Zigduck2mqttnix) **-  reproducible and deployable smart home automation system as a flake.**  
+- **🦆** [zigduck](https://github.com/QuackHack-McBlindy/zigduck) **-  reproducible and deployable smart home automation system as a flake.**  
 **Embedded / Hardware** 
 - **⌚️** [ESP32-S3-WATCH-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-WATCH-rs) **- Voice-driven bare metal wearable operating system on your wrist.**  
 - **📭** [ESP32-S3-BOX-3-rs](https://github.com/QuackHack-McBlindy/ESP32-S3-BOX-3-rs) **-** *(mostly)* **docked voice assistant.**  

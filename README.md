@@ -26,7 +26,7 @@
 
 ## **☕**
 
-> 🦆🧑‍🦯 says ▶ Hi! I'm QuackHack-McBlindy!  
+> 🦯🦆 says ▶ Hi! I'm QuackHack-McBlindy!  
 > Like my work?  
 > Buy me a coffee, or become a sponsor.  
 > Thanks for supporting open source/hungry developers ♥️🦆!   

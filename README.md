@@ -11,7 +11,6 @@
 
 ## **Ecosystem**
 
-- **🤯** [prototype](https://github.com/QuackHack-McBlindy/dotfiles/blob/main/bin/disabled/voice/do-bash.nix) **- code as art.**  
 - **❄️** [tinyFlake](https://github.com/QuackHack-McBlindy/tinyFlake) **- my projects start with a tinyFlake.**   
 - **🛠️** [dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) **- all**+**servers**+**phone**+**scripts**+**lights**+**TVs**+**bed**+**automations**+**everything else.**  
 - **🗣️** [yo](https://github.com/QuackHack-McBlindy/yo) **- fast, flake-native deterministic natural-language command engine with an offline voice interface.**   
@@ -23,8 +22,12 @@
 - **🗣️** [yo-esp](https://github.com/QuackHack-McBlindy/yo-esp) **- rust no std audio library for ESP32 microcontrollers.**   
 - **📦** [crates.io](https://crates.io/users/QuackHack-McBlindy) **- QuackHack-McBlindy @ crates.io**  
 
+## **Misc**  
 
-## **☕**
+- **🤯** [prototype](https://github.com/QuackHack-McBlindy/dotfiles/blob/main/bin/disabled/voice/do-bash.nix) **- code as art.**  
+- **💬** [blog](https://quackhack-mcblindy.github.io/blog/) **- sometimes i push stupid stuff in text form here...**  
+
+## **☕**  
 
 > 🦯🦆 says ▶ Hi! I'm QuackHack-McBlindy!  
 > Like my work?  

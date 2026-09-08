@@ -3,10 +3,7 @@
 
 # **🦆 QuackHack-McBlindy 🧑‍🦯**
 
-*old-school & anonymous*   
-*lost my sight twenty years ago*   
-*been doing this for far longer...*   
-*mostly white hat these days*    
+[QuackHack-McBLindy.com](https://quackhack-mcblindy.com/)
 
 
 ## **Ecosystem**
@@ -25,7 +22,7 @@
 ## **Misc**  
 
 - **🤯** [prototype](https://github.com/QuackHack-McBlindy/dotfiles/blob/main/bin/disabled/voice/do-bash.nix) **- code as art.**  
-- **💬** [blog](https://quackhack-mcblindy.github.io/blog/) **- sometimes i push stupid stuff in text form here...**  
+- **💼** [portfolio](https://quackhack-mcblindy.com/) **- QuackHack-McBLindy.com**  
 
 ## **☕**  
 

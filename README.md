@@ -22,6 +22,7 @@
 ## **Misc**  
 
 - **🤯** [prototype](https://github.com/QuackHack-McBlindy/dotfiles/blob/main/bin/disabled/voice/do-bash.nix) **- code as art.**  
+- **🔴** [PokéNix](https://github.com/QuackHack-McBlindy/pokenix) **- Pokémon collection builder.**  
 - **💼** [portfolio](https://quackhack-mcblindy.com/) **- QuackHack-McBLindy.com**  
 
 ## **☕**  
